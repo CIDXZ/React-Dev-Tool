@@ -26,22 +26,7 @@ cd react-dev-tool
 
 2️⃣ Copy .tsx Files into the Project
 
-Move all .tsx files into the appropriate folders:
-
-react-dev-tool/
-│── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│── components/
-│   ├── Inspector.tsx
-│   ├── ComponentTree.tsx
-│   ├── TailwindEditor.tsx
-│   ├── VisualOverlay.tsx
-│   ├── DemoElements.tsx
-│── store/
-│   ├── useInspectorStore.ts
-
-Ensure all imports in page.tsx match the correct paths.
+Move all .tsx files into the appropriate folders.
 
 3️⃣ Install Dependencies
 
