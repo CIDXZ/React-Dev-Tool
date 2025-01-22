@@ -88,7 +88,7 @@ Live Element Interaction & Visualization
 
 📖 Notes
 
-If you get a 404 error, ensure app/page.tsx is correctly placed in the app/ directory.
+If you get a 404 error, ensure app/page.tsx is correctly placed in the app/ directory. 
 
 Restart the server after modifying the folder structure using Ctrl + C and running npm run dev again.
 
