@@ -94,4 +94,4 @@ Restart the server after modifying the folder structure using Ctrl + C and runni
 
 🎯 Author
 
-Rahul Naidu Boddeti
+Rahul Naidu Boddeti.
